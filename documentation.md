@@ -226,7 +226,7 @@ print(f"You live in {city} and enjoy eating: {', '.join(favorite_foods)}.")
 - **Git/GitHub**: Version control and hosting
 
 ## Author
-[Your Name]
+[Rashmitha]
 
 ## License
 This project is created for educational purposes and is available under the MIT License.
