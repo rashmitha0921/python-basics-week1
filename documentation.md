@@ -228,8 +228,3 @@ print(f"You live in {city} and enjoy eating: {', '.join(favorite_foods)}.")
 ## Author
 [Rashmitha]
 
-## License
-This project is created for educational purposes and is available under the MIT License.
-
-## Contact
-For questions or feedback about this project, please open an issue on the GitHub repository.
