@@ -93,7 +93,7 @@ The program has been tested with various inputs:
 - VS Code for development
 
 ## Author
-[Your Name]
+[Rashmitha]
 
 ## License
 This project is for educational purposes.
